@@ -11,6 +11,9 @@
 # production
 /build
 
+# Pasta Config
+/Config
+
 # misc
 .DS_Store
 .env.local
